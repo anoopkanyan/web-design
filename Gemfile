@@ -14,7 +14,7 @@ gem 'rails', '~> 5.1.4'
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
 gem 'bootstrap', '~> 4.0.0.beta3'
-gem 'rails-assets-tether', '>= 1.3.3', source: 'https://rails-assets.org'
+gem 'tether-rails'
 gem 'jquery-rails'
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets

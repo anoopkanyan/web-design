@@ -11,8 +11,8 @@
 // about supported directives.
 //
 //= require ./js/jquery-min
-//= require ./js/tether.min
-//= require ./js/bootstrap.min
+//= require tether
+//= require bootstrap
 
 //= require ./js/classie
 //= require ./js/mixitup.min
@@ -27,5 +27,6 @@
 //= require ./js/jquery.counterup.min
 //= require ./js/jquery.magnific-popup.min
 //= require ./js/waypoints.min
-//= require ./js/main
+
+//= require main
 
