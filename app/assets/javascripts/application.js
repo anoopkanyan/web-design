@@ -10,22 +10,22 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery-min
-//= require tether.min
-//= require bootstrap.min
+//= require ./js/jquery-min
+//= require ./js/tether.min
+//= require ./js/bootstrap.min
 
-//= require classie
-//= require mixitup.min
-//= require nivo-lightbox
+//= require ./js/classie
+//= require ./js/mixitup.min
+//= require ./js/nivo-lightbox
 //= require owl.carousel
-//= require jquery.stellar.min
-//= require jquery.nav
-//= require smooth-scroll
-//= require smooth-on-scroll
-//= require wow
-//= require menu
-//= require jquery.counterup.min
-//= require jquery.magnific-popup.min
-//= require waypoints.min
-//= require main
+//= require ./js/jquery.stellar.min
+//= require ./js/jquery.nav
+//= require ./js/smooth-scroll
+//= require ./js/smooth-on-scroll
+//= require ./js/wow
+//= require ./js/menu
+//= require ./js/jquery.counterup.min
+//= require ./js/jquery.magnific-popup.min
+//= require ./js/waypoints.min
+//= require ./js/main
 
