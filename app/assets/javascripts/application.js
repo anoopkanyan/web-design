@@ -10,26 +10,22 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-// Js Added through Ruby Gems
-//= require jquery3
-//= require popper
-//= require tether
-//= require bootstrap
+//= require jquery-min
+//= require tether.min
+//= require bootstrap.min
 
-
-// Js Added through 3rd Party Plugins
-//= require ./js/classie
-//= require ./js/mixitup.min
-
+//= require classie
+//= require mixitup.min
+//= require nivo-lightbox
 //= require owl.carousel
-//= require ./js/jquery.stellar.min
-//= require ./js/jquery.nav
-//= require ./js/smooth-scroll
-//= require ./js/smooth-on-scroll
-//= require ./js/wow
-//= require ./js/menu
-
-//= require magnific-popup
-//= require ./js/waypoints.min
-//= require ./js/main
+//= require jquery.stellar.min
+//= require jquery.nav
+//= require smooth-scroll
+//= require smooth-on-scroll
+//= require wow
+//= require menu
+//= require jquery.counterup.min
+//= require jquery.magnific-popup.min
+//= require waypoints.min
+//= require main
 
