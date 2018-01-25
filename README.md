@@ -1,4 +1,4 @@
-## Free Web Design Company Landing Page in Ruby On Rails 
+## Free Web Design Company Landing Page in Ruby On Rails With Video Background 
 ![web-design](https://user-images.githubusercontent.com/35004804/35398552-02286a84-0214-11e8-9ab9-4669625f3ead.jpg)
 
 
@@ -10,6 +10,7 @@
 
 * Sass for stylesheets
 * Modular JavaScript
+* Video Background 
 * Developed to serve assets per controller
 * CSS framework options:
   * [Bootstrap 4](http://getbootstrap.com/)
